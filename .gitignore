@@ -38,3 +38,4 @@ env/
 # MLFlow
 mlruns/
 mlartifacts/
+mlflow.db
